@@ -1,0 +1,18 @@
+{
+    "format_version": 2,
+    "header": {
+        "description": "Gắn đuôi và tai cáo vào quần sắt",
+        "name": "đuôi cáo và tai by tiktok: t._mc5 (Tú MC)",
+        "uuid": "b3b890a8-b586-45ef-8919-693db1dc7b93",
+        "version": [1, 0, 0],
+        "min_engine_version": [1, 16, 0]
+    },
+    "modules": [
+        {
+            "description": "Tài nguyên Đuôi cáo",
+            "type": "resources",
+            "uuid": "18501e74-72af-4f7f-8291-3dd1e9389e81",
+            "version": [1, 0, 0]
+        }
+    ]
+}
